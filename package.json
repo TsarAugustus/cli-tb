@@ -1,0 +1,27 @@
+{
+  "name": "cli-tb",
+  "version": "0.0.0",
+  "description": "a textboard with a command line interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TsarAugustus/cli-tb.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TsarAugustus/cli-tb/issues"
+  },
+  "homepage": "https://github.com/TsarAugustus/cli-tb#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "commander": "^5.1.0",
+    "express": "^4.17.1",
+    "inquirer": "^7.1.0",
+    "mongoose": "^5.9.14",
+    "vorpal": "^1.12.0"
+  }
+}
